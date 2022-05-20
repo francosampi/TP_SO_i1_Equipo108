@@ -1,0 +1,7 @@
+Equipo 108
+Avalos Leandro Sebastian
+Fernandez Lautaro Nicolas
+Sampietro Franco
+
+a) Se ven los cambios, y detallados en la solapa commit
+b) Cambié el datos.txt y mis compañeros lo vieron, detallado en la solapa commit
