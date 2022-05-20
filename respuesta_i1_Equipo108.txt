@@ -7,3 +7,4 @@ a) Se ven los cambios, y detallados en la solapa commit
 b) Cambié el datos.txt y mis compañeros lo vieron, detallado en la solapa commit
 c) Si, los demas lo ven. Probe subiendo un archivo de prueba y pudieron verlo exitosamente.
 d) Nos comunicammos a traves de discord y grupo de Whatsapp
+e) Dentro de github el apartado de project es lo mas cómodo, ya que puedes tener un seguimiento diagramado de los cambios dentro del repositorio.
